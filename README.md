@@ -1,4 +1,4 @@
-# Hey, I’m [Nesma] 👋
+# Hey, I’m Nesma 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/nesma-ezzat)
 [![Medium](https://img.shields.io/badge/Medium-00ab6c?logo=Medium&style=for-the-badge)](https://medium.com/@nesma.m7md)
