@@ -31,7 +31,7 @@ I’m a Senior DevOps Engineer who loves automating everything — from code to 
 - Secure and compliant cloud integrations across **AWS**, **GCP**, and **Azure**, including **SSO**, **IAM roles**, and service accounts
 - Robust **CI/CD pipelines** leveraging **AWS Pipelkine**, **GitHub Actions**, **GitLab CI**, and **Argo CD** for seamless, zero-downtime deployments
 
-
+*...and many more — just some basic info for sharing.*
 ---
 
 ### 🌱 Always Learning, Always Building
