@@ -2,9 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/nesma-ezzat)
 [![Medium](https://img.shields.io/badge/Medium-00ab6c?logo=Medium&style=for-the-badge)](https://medium.com/@nesma.m7md)
-<!---
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge)](mailto:youremail@example.com)
---->
 
 I’m a Senior DevOps Engineer who loves automating everything — from code to cloud and beyond. I build reliable, scalable infrastructure and streamline CI/CD pipelines to empower development teams.
 
@@ -17,6 +14,22 @@ I’m a Senior DevOps Engineer who loves automating everything — from code to 
 - **Automation & Scripting:** Python (boto3, GCP SDK), Bash
 - **Monitoring & Alerts:** CloudWatch Metrics & Alarms, New Relic integration
 - **CI/CD:** AWS CodePipeline, GitHub Actions
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vault/vault-original.svg" alt="Vault" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/prometheus/icon/color/prometheus-icon-color.svg" alt="Prometheus" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/newrelic/ffffff" alt="New Relic" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/argoproj/argo-cd/master/docs/assets/argo.png" alt="Argo CD" height="40"/>
+</p>
 
 ---
 
@@ -39,17 +52,5 @@ I’m a Senior DevOps Engineer who loves automating everything — from code to 
 I enjoy tackling complex infrastructure challenges, optimizing systems, and sharing knowledge with the community.
 
 ---
-<!--
-### 📊 GitHub Stats
-
-![Nesma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nesma-m7md&show_icons=true&hide_border=true&count_private=true&theme=radical)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nesma-m7md&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nesma-m7md&theme=radical)
-
----
--->
 
 Thanks for stopping by! Feel free to explore my repos or reach out.
