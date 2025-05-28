@@ -1,9 +1,18 @@
-# Hey, I’m Nesma 👋
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Nesma</h1>
+<h3 align="center">Senior DevOps Engineer</h3>
+
+<div align=center>
+        <img src="image/dc20c490-b4ca-4eeb-b3de-85a31f55eae8.png" alt="Devops" height="200">
+</div>
+
+I’m a Senior DevOps Engineer who loves automating everything — from code to cloud and beyond. I build reliable, scalable infrastructure and streamline CI/CD pipelines to empower development teams.
+
+---
+
+<h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"></h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/nesma-ezzat)
 [![Medium](https://img.shields.io/badge/Medium-00ab6c?logo=Medium&style=for-the-badge)](https://medium.com/@nesma.m7md)
-
-I’m a Senior DevOps Engineer who loves automating everything — from code to cloud and beyond. I build reliable, scalable infrastructure and streamline CI/CD pipelines to empower development teams.
 
 ---
 
@@ -30,7 +39,7 @@ I’m a Senior DevOps Engineer who loves automating everything — from code to 
   <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/prometheus/icon/color/prometheus-icon-color.svg" alt="Prometheus" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/newrelic/ffffff" alt="New Relic" width="40" height="40"/>
-  
+
 </p>
 
 ---
